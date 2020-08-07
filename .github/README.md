@@ -34,21 +34,6 @@
     Online teaching platform made with React Native using Typescript during the<a src="https://nextlevelweek.com"> NLW (Next Level Week) #02</a>🚀
 </p>
 
-
-### Content
-* [Getting Started](#Getting-Started-)
-    * [Cloning](#Cloning)
-    * [Requirements](#Requirements)
-        * [Web](#Web)
-        * [Server](#Server)
-        * [Mobile](#Mobile)
-    * [Running](#Running)
-* [Issues](#Issues-)
-    * [Report](#Report)
-    * ~~Trouble Shooting~~
-* [Contributing](#Contributing-)
-* [License](#License-)
-
 ### Getting Started 🚀
 
 #### Cloning
@@ -176,36 +161,3 @@ $ cd mobile
 # Run the Mobile Version
 $ yarn start
 ```
-
-### Issues 🐛
-
-#### Report
-
-In case you are having any problem do not be shy to report to us in [Issues][issues-url] session.
-
-### Contributing 🤝 
-
-There are many forms to contribute with the project, first of all you can give this github repo a Star.
-
-If you want do help with the code follow the steps bellow
-
-```ps
-# Fork using GitHub official command line
-# If you don't have the GitHub CLI, use the web site to do that.
-$ gh repo fork pmqueiroz/proffy
-
-# Clone your fork
-$ git clone {your-fork-url}
-$ cd proffy
-
-# Create a branch with your feature
-$ git checkout -b {branch-name}
-
-# Make the commit with your changes
-$ git commit -m 'Feat: {feature-name}'
-
-# Send the code to your remote branch
-$ git push origin {branch-name}
-```
-
-Then send a Pull Request that will be analyzed and approved if it helps with the project
