@@ -35,20 +35,6 @@
 </p>
 
 
-
-<div align="center">  
-    
-[![License][license-badge]][license-url]
-![Git Stars][star-badge]
-[![Netfly Stats][netfly-badge]][netfly-url]
-[![Netfly Stats][proffy-apk-badge]][proffy-apk-url]
-![NLW Stats][nlw-badge]
-![Codacy Quality][codacy-badge]
-
-
-</div>
-
-
 ### Content
 * [Getting Started](#Getting-Started-)
     * [Cloning](#Cloning)
@@ -69,7 +55,7 @@
 
 ```ps
 # Clone the repository using git
-$ git clone https://github.com/pmqueiroz/proffy.git
+$ git clone https://github.com/gabrielrportugal/proffy
 
 # Access the project folder
 $ cd proffy
@@ -223,7 +209,3 @@ $ git push origin {branch-name}
 ```
 
 Then send a Pull Request that will be analyzed and approved if it helps with the project
-
-
-### License 📝
-This project is under the MIT license. See the [LICENSE][license-url] for more information.
